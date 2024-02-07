@@ -18,7 +18,7 @@ yesBtn.addEventListener("click", () => {
 
   // Funcionalidad de abrir el documento al hacer clic en el botón
   downloadBtn.addEventListener("click", () => {
-    window.open("/Certificado San Valentín.pdf", "_blank"); // Reemplaza "/ruta/al/documento.pdf" con la ruta correcta del documento dentro de tu proyecto
+    window.open("https://drive.google.com/file/d/1uyp9B_fI7E6AxnB8OUQjB2VWGt_oNR86/view?usp=sharing", "_blank"); // Reemplaza "/ruta/al/documento.pdf" con la ruta correcta del documento dentro de tu proyecto
   });
 });
 
